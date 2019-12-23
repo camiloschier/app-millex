@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app-millex",
+    "name": "Millex",
     "slug": "app-millex",
     "privacy": "public",
     "sdkVersion": "35.0.0",
@@ -16,6 +16,9 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.sawubona.millex"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
